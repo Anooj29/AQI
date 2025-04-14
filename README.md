@@ -6,7 +6,7 @@ This project predicts the Air Quality Index (AQI) using machine learning and pro
 ## 📁 Repository Structure
 
 ```
-ShubhamSPawde/
+Anooj29/
 ├── AQI.ipynb          # Jupyter notebook for EDA and model training
 ├── app.py             # Streamlit web app
 ├── aqi.pkl            # Trained machine learning model
@@ -19,8 +19,8 @@ ShubhamSPawde/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/ShubhamSPawde/AQI-Prediction.git
-cd AQI-Prediction
+git clone [https://github.com/Anooj29/AQI]
+cd AQI
 ```
 
 ### Install dependencies
