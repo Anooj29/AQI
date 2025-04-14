@@ -19,7 +19,7 @@ Anooj29/
 
 ### Clone the repository
 ```bash
-git clone [https://github.com/Anooj29/AQI]
+git clone https://github.com/Anooj29/AQI
 cd AQI
 ```
 
